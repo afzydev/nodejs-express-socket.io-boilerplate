@@ -1,0 +1,16 @@
+{
+  "name": "plabetr-dice-node",
+  "version": "1.0.0",
+  "description": "NodeJs Package API to show the dice game data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "playbetr",
+  "license": "ISC",
+  "dependencies": {
+    "connect": "^3.5.0",
+    "express": "^4.14.0",
+    "passport": "^0.3.2"
+  }
+}
