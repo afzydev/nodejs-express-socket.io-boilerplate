@@ -1,8 +1,3 @@
-Integration test between nodeJS and PHP
+A simple boilerplate node.js, express.js & socket.io
 
-This is just a simple chat application, where all database and pages are managed by PHP.
-NodeJS is used for realtime refresh
-
-It is basically just a test project, but the logic of the application can be used for a lot of purposes (realtime notifications, ...) and easily deployed in another project.
-
-I will try to update and improve it as soon as possible.
+I created this repo as I kept making new node.js projects and was copying resources from different places. Eventually things got to spread out and I couldn't figure out which project had the most up to date setup. I've tried to break things out into their respective config/lib files for easier organization.
